@@ -1,6 +1,4 @@
-# Fundamentos de Programação e Engenharia
-
-## 1. Pensamento Computacional
+#  1. Pensamento Computacional
 
 Pensamento computacional é a capacidade de formular problemas de forma clara e estruturada, de modo que:
 - outro ser humano consiga entendê-los
