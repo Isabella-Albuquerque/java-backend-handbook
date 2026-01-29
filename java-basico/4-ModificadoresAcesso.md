@@ -1,5 +1,4 @@
-
-## 3. Modificadores de Acesso
+#  Modificadores de Acesso
 
 Controlam quem pode acessar classes, atributos e métodos.
 - public: acessível de qualquer lugar.

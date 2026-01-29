@@ -12,7 +12,7 @@ Exemplo: tarefa = encontrar um número em uma lista.
 
 Isso é um algoritmo. Escrever em Java ou outra linguagem estamos codificando o algoritmo.  
 
-## Características de um bom algoritmo
+### Características de um bom algoritmo
 
 1- Correção: resolve o problema?
 2- Eficiência: tempo e memória aceitáveis?
@@ -94,3 +94,6 @@ Características:
 - Muito mais eficiente para listas grandes
 - Requer dados ordenados
 - Mais complexa que a busca linear
+
+## 2- Análise de Complexidade -  Big O
+O Big O uma notação matemática fundamental na Ciência da Computação para descrever a eficiência (tempo e espaço) de um algoritmo à medida que o tamanho da entrada cresce, avaliando sua escalabilidade ao focar no pior cenário e nos termos dominantes, ajudando a comparar algoritmos e escolher a melhor solução para grandes volumes de dados

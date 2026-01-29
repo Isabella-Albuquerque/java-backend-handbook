@@ -1,4 +1,4 @@
-# Fundamentos Java – Resumo para Estudo
+# Tipos e Operadores
 
 ## 1. Tipos Primitivos vs Objetos (Wrappers)
 
