@@ -1,2 +1,0 @@
-# Tratamento de Exceções
-TODO
